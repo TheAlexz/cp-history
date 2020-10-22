@@ -1,2 +1,2 @@
 # cp-history
-Códigos hechos a lo largo de mi trayectoria en programación competitiva
+Codes made by me during my journey on competitive programming
